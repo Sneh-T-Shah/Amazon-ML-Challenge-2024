@@ -4,11 +4,11 @@
 ## Team: ML Mavericks
 **Members:**
 - Neel Shah (Email: neeldevenshah@gmail.com)
-- Sneh Shah (Email: 22aiml049@charuat.edu.in)
+- Sneh Shah (Email: snehs5483@gmail.com)
 - Harsh Maheshwari (Email: 22aiml019@charusat.edu.in)
 
 ### Overview
-In the 2024 Amazon ML Hackathon, our team achieved an impressive rank of 64th out of over 75,000 participants from across India. Our project focused on **Feature Extraction from Images**, utilizing advanced machine learning techniques to extract critical product information directly from images. This capability is essential in fields such as healthcare and e-commerce.
+In the 2024 Amazon ML Hackathon, our team achieved an impressive rank of 64th out of over 75,000 individual participants from across India. Our project focused on **Feature Extraction from Images**, utilizing advanced machine learning techniques to extract critical product information directly from images. This capability is essential in fields such as healthcare and e-commerce.
 
 ### Project Description
 Our solution leverages the **MiniCPM-Llama3-V-2.5** model, a state-of-the-art vision-language model that integrates visual processing capabilities with natural language understanding. The system is designed to efficiently extract entity values, such as weight and dimensions, from product images.
@@ -60,7 +60,7 @@ Here are some images related to our project:
 Our implementation of the MiniCPM-Llama3-V-2.5 model, combined with a robust post-processing pipeline, has shown exceptional performance in extracting product attributes from images. This solution is poised to enhance automation in e-commerce and inventory management.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ### Acknowledgments
 Kaggle: For providing the GPU support necessary for our project's success.
